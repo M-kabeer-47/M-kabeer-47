@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Node JS and Express<br>🎯 Goals: Full Stack Developer<br></p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React JS<br>🎯 Goals: Full Stack Developer<br></p>
 
 
 <h2 align="left">I code with</h2>
